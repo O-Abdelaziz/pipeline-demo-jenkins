@@ -48,5 +48,3 @@ Push to GitHub
 git remote add origin <your-repo-url>
 git push -u origin main
 ```
-
-Deadline: 15/5 — deliver the GitHub URL and two screenshots as requested.
